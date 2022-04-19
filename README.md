@@ -41,6 +41,11 @@ next-boilerplate project provides a lot of features out of the box. Here's an ov
 
 ## Commands
 
+First, install packages:
+```js
+ yarn install | yarn
+```
+
 Dev: 
 ```js
 yarn dev
