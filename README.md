@@ -42,7 +42,7 @@ next-boilerplate project provides a lot of features out of the box. Here's an ov
 ## Create Next App using this boilerplate: 
 
 ```js
-  yarn create next-app -e https://github.com/klinkonskydev/02-boilerplate
+  yarn create next-app -e https://github.com/klinkonskydev/boilerplate
 ```
 
 <br />
