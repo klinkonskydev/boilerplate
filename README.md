@@ -39,6 +39,50 @@ next-boilerplate project provides a lot of features out of the box. Here's an ov
 
 <br />
 
+## Commands
+
+Dev: 
+```js
+yarn dev
+```
+
+Build:
+```js
+yarn build
+```
+
+Start:
+```js
+yarn start
+```
+
+Test:
+```js
+yarn test
+```
+
+Test with watch:
+```js
+yarn test:watch
+```
+
+Generate a component:
+```js
+yarn generate ComponentName
+```
+
+Storybook:
+```js
+yarn storybook
+```
+
+Build storybook:
+```js
+yarn build-storybook
+```
+
+<br/>
+
 ## Create Next App using this boilerplate: 
 
 ```js
