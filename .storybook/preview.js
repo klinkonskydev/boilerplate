@@ -1,8 +1,6 @@
 export const parameters = {
+  layout: 'fullscreen',
   actions: { argTypesRegex: '^on[A-Z].*' },
-  parameters: {
-    layout: 'fullscreen'
-  },
   controls: {
     matchers: {
       color: /(background|color)$/i,
